@@ -47,13 +47,14 @@
   - Redux-react
   - Firebase
   - OOP
-  - Material UI
 - **Development Environments**:
+
   - VS Code,
-  - Linux
+
   - MacOS
   - VMware
   - VirtualBox
+
 - **Continuous Integration and Repository Management**:
   - GitHub
 - **Source Version Control**:
