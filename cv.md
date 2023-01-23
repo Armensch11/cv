@@ -16,12 +16,10 @@
 
 ### Summary
 
-- 1 year of professional experience in the IT industry,
 - Comprehensive understanding of IT industry, including software, hardware and networking,
 - Proficient knowledge of JavaScript and popular JavaScript-based libraries,
-- Solid experience with front-end development technologies (React JS, React-Redux, HTML, CSS, SASS),
+- Solid experience with front-end development technologies (React JS, React-Redux),
 - Thorough undestanding of software design principles and patterns,
-- Deep understanding of OOP and Functional Programming,
 - Good communication skills.
 
 ---
