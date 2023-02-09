@@ -26,7 +26,7 @@
 
 ### Education
 
-- [Blockstars](https://blockstars.tech/) - _Solidity, _Web3.js
+- [Blockstars](https://blockstars.tech/) - Solidity, Web3.js
 - [Udemy](https://www.udemy.com/) - _React - The Complete Guide (incl Hooks, React Router, Redux)_.
 - [ACA](https://www.aca.am/) - _Advanced JS and ReactJS_ in 2020
 - **_IAEA_** course on Safety Assessement of Radioactive Waste Disposal, Abingdon, UK in 2002
