@@ -26,7 +26,8 @@
 
 ### Education
 
-- [Udemy](https://www.udemy.com/) - _React - The Complete Guide (incl Hooks, React Router, Redux)_ - in progress.
+- [Blockstars](https://blockstars.tech/) - _Solidity, _Web3.js
+- [Udemy](https://www.udemy.com/) - _React - The Complete Guide (incl Hooks, React Router, Redux)_.
 - [ACA](https://www.aca.am/) - _Advanced JS and ReactJS_ in 2020
 - **_IAEA_** course on Safety Assessement of Radioactive Waste Disposal, Abingdon, UK in 2002
 - _State Engineering University of Armenia_, 2003
@@ -37,18 +38,19 @@
 
 - **Programming and Markup Languages**:
   - _JavaScript_
+  - _Solidity_
   - _ES2015/ES6_
   - _JSON_
   - _HTML5,CSS3_
 - **Technologies and Frameworks**:
   - React
   - Redux-react
+  - Web3.js, Ethers.js
   - Firebase
   - OOP
 - **Development Environments**:
 
   - VS Code,
-
   - MacOS
   - VMware
   - VirtualBox
