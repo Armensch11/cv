@@ -25,7 +25,7 @@
 ---
 
 ### Education
-
+- [Quantori](https://quantori.com/) - Internship with final Project on Protein Search (https://luxury-raindrop-f7ce1e.netlify.app)
 - [Blockstars](https://blockstars.tech/) - Solidity, Web3.js
 - [Udemy](https://www.udemy.com/) - _React - The Complete Guide (incl Hooks, React Router, Redux)_.
 - [ACA](https://www.aca.am/) - _Advanced JS and ReactJS_ in 2020
@@ -38,15 +38,18 @@
 
 - **Programming and Markup Languages**:
   - _JavaScript_
+  - _Typescript_
   - _Solidity_
   - _ES2015/ES6_
   - _JSON_
   - _HTML5,CSS3_
 - **Technologies and Frameworks**:
   - React
-  - Redux-react
+  - Redux-toolkit
   - Web3.js, Ethers.js
   - Firebase
+  - MUI
+  - Webpack
   - OOP
 - **Development Environments**:
 
